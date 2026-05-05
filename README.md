@@ -1,7 +1,7 @@
 # FM Receiver with GNU Radio & RTL-SDR
 *flowgraph* GNU Radio untuk menerima siaran radio FM menggunakan perangkat keras RTL-SDR. Proyek ini mencakup visualisasi sinyal secara real-time dan kontrol parameter dinamis untuk optimasi kualitas audio.
 
-![Flowgraph FM Receiver](FM Receiver.png)
+![Flowgraph FM Receiver](FM_Receiver.png)
 
 ## Fitur Utama
 *   **Real-time Monitoring:** Dilengkapi dengan *FFT Plot* dan *Waterfall Display* untuk memantau spektrum frekuensi secara visual.
